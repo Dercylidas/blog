@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: lydia/comments.php:32
+msgid "% Comments"
+msgstr ""
+
+#. Text in echo
+#: lydia/404.php:9
+msgid "&larr; Head Home"
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:32
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:32
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: lydia/404.php:8
+msgid "404"
+msgstr ""
+
+#. Text in echo
+#: lydia/loop/loop-portfolio-full.php:4
+#: lydia/loop/loop-portfolio-mosaic.php:6
+#: lydia/loop/loop-portfolio-mosaic-lightbox.php:6
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in echo
+#: lydia/single-portfolio/content-nav.php:8
+msgid "Back to Portfolio"
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:1
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: lydia/loop/content-post-magazine.php:15
+msgid "Continue reading"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:1
+msgid "Email *"
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:1
+msgid "Enter your comment here..."
+msgstr ""
+
+#. Text in echo
+#: lydia/searchform.php:3
+msgid "Find"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/theme_functions.php:1
+msgid "First"
+msgstr ""
+
+#. Text in echo
+#: lydia/admin/theme_filters.php:104
+msgid "Gallery Layout"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/theme_functions.php:1
+msgid "LOAD MORE"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/theme_functions.php:1
+msgid "LOADING..."
+msgstr ""
+
+#. Text in function
+#: lydia/admin/theme_functions.php:1
+msgid "Last"
+msgstr ""
+
+#. Text in echo
+#: lydia/inc/content-preloader.php:3
+msgid "Loading"
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:1
+msgid "Logged in as <a href=\"%1$s\">%2$s</a> <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:1
+msgid "Name *"
+msgstr ""
+
+#. Text in function
+#: lydia/single-portfolio/content-nav.php:9
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in function
+#: lydia/single-portfolio/content-nav.php:9
+msgid "Prev Post"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Return to the dashboard"
+msgstr ""
+
+#. Text in echo
+#: lydia/searchform.php:2
+msgid "Search something"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:1
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in function
+#: lydia/admin/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in function
+#: lydia/comments.php:1
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: lydia/admin/theme_functions.php:1249
+msgid "Your comment is awaiting moderation."
+msgstr ""
